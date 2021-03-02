@@ -1,0 +1,27 @@
+.App {
+  
+  text-align: center;
+}
+
+
+.Colorbg{
+   background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,63,121,1) 33%, rgba(0,212,255,1) 100%); 
+}
+
+.crypto{
+  padding-left: 500px;
+}
+
+.marg{
+  margin: 10px 10px;
+}
+
+.ml{
+  margin-left: 130px;
+}
+
+/*http://gateway.marvel.com/v1/public/characters?ts=1&apikey=6e28e017b0701333dbbc5e8d1a703771&hash=1681b4542333d81722dc6e0311003058*/
+
+
+
