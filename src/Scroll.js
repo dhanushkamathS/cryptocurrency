@@ -4,8 +4,7 @@ import './App.css';
 const Scroll = (props)=>{
     return(
 
-        <div 
-        style={{ overflow: 'scroll',height: '600px'}}>
+        <div >
             {props.children}
         </div>
     )

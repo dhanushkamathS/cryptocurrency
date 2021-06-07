@@ -34,12 +34,12 @@ var filteredCoin = cryptoDatas.filter(
     });
 
   return (     
-    <>
+    <div className="App">
     <NavbarCustom searchChange ={searchChange}/>
     <Scroll>
       <CardList cryptoData ={filteredCoin}/>
     </Scroll>
-    </>
+    </div>
   )
 }
 
